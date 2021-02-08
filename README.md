@@ -31,5 +31,7 @@
 
 ## Change Log:
 
+- 2021.02.08
+  - Update Kext & OC0.6.6
 - 2020.11.26
 	- init
